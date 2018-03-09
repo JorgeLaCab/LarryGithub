@@ -1,5 +1,5 @@
 
-#Índice
+#Indice
 
 * Larry Potter y El Bucle Filosofal
 * Larry Potter y La Clave Secreta del WiFi
